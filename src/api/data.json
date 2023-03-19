@@ -1,0 +1,24 @@
+{
+    "singers" : [
+        {
+            "id":1875786568678 ,
+            "name" : "The weeknd", 
+            "song" : "Save Your Tears"
+        },
+        {
+            "id":2565644456965 ,
+            "name" : "Drake",  
+            "song" :"On BS"
+        },
+        {
+            "id":3657567567743 ,
+            "name" : "Rema",  
+            "song" : "Calm down"
+        },
+        {
+            "id":7659857574643 ,
+            "name" : "Jack Harlow", 
+            "song" : "First Class"
+        }
+    ]
+}
